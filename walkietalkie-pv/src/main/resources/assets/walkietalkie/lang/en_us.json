@@ -1,0 +1,9 @@
+{
+  "item.walkietalkie.walkie_talkie": "Walkie Talkie",
+  "item.walkietalkie.walkie_talkie.frequency": "Frequency: %s MHz",
+  "item.walkietalkie.walkie_talkie.hint": "Right click to tune. Hold it and press the Walkie Talkie key to talk.",
+  "gui.walkietalkie.title": "Walkie Talkie",
+  "gui.walkietalkie.range": "Range 100.00 - 500.00 MHz",
+  "gui.walkietalkie.set": "Set frequency",
+  "message.walkietalkie.frequency_set": "Frequency set to %s MHz"
+}
