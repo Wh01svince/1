@@ -1,9 +1,0 @@
-{
-  "item.walkietalkie.walkie_talkie": "วิทยุสื่อสาร",
-  "item.walkietalkie.walkie_talkie.frequency": "ความถี่: %s MHz",
-  "item.walkietalkie.walkie_talkie.hint": "คลิกขวาเพื่อจูนความถี่ ถือไว้แล้วกดปุ่ม Walkie Talkie เพื่อพูด",
-  "gui.walkietalkie.title": "วิทยุสื่อสาร",
-  "gui.walkietalkie.range": "ช่วงความถี่ 100.00 - 500.00 MHz",
-  "gui.walkietalkie.set": "ตั้งความถี่",
-  "message.walkietalkie.frequency_set": "ตั้งความถี่เป็น %s MHz แล้ว"
-}
